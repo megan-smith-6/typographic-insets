@@ -101,11 +101,6 @@ main > p:first-child::first-letter {
   margin-right: 0.1em;
 }
 
-figure {
-  clear: both;
-  margin-left: 0.1em;
-}
-
 img {
   width: 300px;
   float: right;
