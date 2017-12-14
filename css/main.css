@@ -87,3 +87,12 @@ footer {
 */
 
 /* Write your CSS here */
+
+main > p:first-child::first-letter {
+  display: inline-block;
+  padding: 6px;
+  background-color: #666;
+  font-size: 5rem;
+  font-style: normal;
+  color: #f2f2f2;
+}
