@@ -98,11 +98,28 @@ main > p:first-child::first-letter {
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
   float: left;
-  margin-right: 0.1em;
+  margin-right: .1em;
 }
 
-img {
+figure {
   width: 300px;
   float: right;
-  margin-left: 0.1em;
+  margin-left: 1em;
+  border-top: 3px solid #333;
+  border-bottom: 3px solid #333;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: .875rem;
+}
+
+blockquote {
+  width: 300px;
+  float: left;
+  margin-right: 1em;
+  font-size: 1.5rem;
+  text-align: right;
+  border-top: 3px solid #333;
+  border-bottom: 3px solid #333;
 }
