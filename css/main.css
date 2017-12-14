@@ -98,7 +98,7 @@ main > p:first-child::first-letter {
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
   float: left;
-  margin-right: .1em;
+  margin-left: -.5em;
 }
 
 figure {
