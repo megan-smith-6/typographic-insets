@@ -109,6 +109,7 @@ figure {
   width: 300px;
   float: right;
   margin: 0 -9em .2em .5em;
+  padding-top: 6px;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
 }
